@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+DOCU_AI/backend/.env
+
+# Reflex build folders
+.web/
+.reflex/
+.states/
+
+# Node modules
+node_modules/
+
+# Vector database
+chroma_db/
+
+# Uploaded private documents
+documents/
+
+# OS junk
+.DS_Store
+Thumbs.db
